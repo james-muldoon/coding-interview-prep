@@ -13,15 +13,15 @@ I'm aiming to revise/ learn all the common questions asked in coding interviews.
 * ~~Traversal (BFS, DFS, in/pre/postorder)~~
 
 ## Graphs
-* Graph Representations (objects and pointers, matrix, adjacency list)
-* Graph traversal (BFS, DFS)
+* ~~Graph Representations~~
+* ~~Graph traversal (BFS, DFS)~~
 * Graph colouring
 * Dijkstra's Algorithm
 * A*
 
-## Hash Tables
+## Hashmaps
 * Using Java HashMap
-* Implementing hashmap with custom hash function
+* Uses for hashmaps
 
 ## Sorting
 * Merge Sort
@@ -29,7 +29,6 @@ I'm aiming to revise/ learn all the common questions asked in coding interviews.
 
 ## NP-Complete Problems
 * Travelling salesman
-* Graph colouring problem
 
 ## Dynamic Programming
 * Rod cutting problem
@@ -54,3 +53,4 @@ For n=24, a=1, b=6, k=17, the output should be 1058. n=100 0000 0000, k=1 0001, 
 * Sort the letters in one word by the order they appear in another in linear time
 * Given an array of values, design an algorithm that returns whether there are two duplicated within k indices of each other. Do all in O(n) running time and O(k) space
 * Implement a multi-map in Java without using an collections
+* !!(EASY) Find the first recurring character in a string~~
