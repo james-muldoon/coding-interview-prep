@@ -6,11 +6,11 @@ I'm aiming to revise/ learn all the common questions asked in coding interviews.
 * ~~Big O Notation (time and space)~~
 
 ## Trees
-* Binary Search Tree (BST)
-* Trie
-* Balanced (Red Black / AVL)
-* Heap
-* Traversal (BFS, DFS, in/pre/postorder)
+* ~~Binary Search Tree (BST)~~
+* ~~Trie~~
+* ~~Balanced (Red Black / AVL)~~
+* ~~Heap~~
+* ~~Traversal (BFS, DFS, in/pre/postorder)~~
 
 ## Graphs
 * Graph Representations (objects and pointers, matrix, adjacency list)
