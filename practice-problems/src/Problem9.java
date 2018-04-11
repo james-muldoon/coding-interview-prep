@@ -6,7 +6,7 @@ import java.util.Set;
     * e.g. the string "barnacle" should return 'a'.
     * If no recurring characters are found, the function should return null
  */
-public class findFirstRecurring {
+public class Problem9 {
 
     public static Character getFirstRecurringChar(String s) {
         Set<Character> charsSeen = new HashSet<>();
