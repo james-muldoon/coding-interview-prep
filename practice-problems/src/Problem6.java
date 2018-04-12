@@ -5,9 +5,11 @@ public class Problem6 {
 
     /*
     * Sort the letters in one word by the order they appear in another in linear time
+    * Returns null if the order string doesn't contain all the letters in the target string
+    * Runs in linear time, O(n+k) (lengths of the two strings)
      */
 
-    public static String sort(String orderStr, String targetStr) {
+    public static String orderByString(String orderStr, String targetStr) {
         ArrayList<Character> charOrder = new ArrayList<>();
 
         for (char c : orderStr.toCharArray()) {
@@ -33,9 +35,7 @@ public class Problem6 {
                 }
             }
         }
-
         return null;
-
     }
 
 }

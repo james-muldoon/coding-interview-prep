@@ -15,7 +15,7 @@ I'm aiming to revise/ learn all the common questions asked in coding interviews.
 ## Graphs
 * ~~Graph Representations~~
 * ~~Graph traversal (BFS, DFS)~~
-* Graph colouring
+* ~~Graph colouring~~
 * Dijkstra's Algorithm
 * A*
 
