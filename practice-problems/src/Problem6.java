@@ -33,6 +33,7 @@ public class Problem6 {
                     orderedStr.append(c);
                     if (orderedStr.length() >= targetStr.length()) return orderedStr.toString();
                 }
+                charCounts.put(c, 0);
             }
         }
         return null;
